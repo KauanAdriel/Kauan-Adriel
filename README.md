@@ -6,5 +6,5 @@ meu nome é kauan adriel
 - estou desenvolvendo na linguagem javaScript
 - utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- ### voce entar em contato comigo 📫
+- ### voce entrar em contato comigo 📫
 - ![](https://media1.tenor.com/m/WWuKr0zRdGYAAAAC/messi.gif)
